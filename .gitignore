@@ -3,3 +3,6 @@ log
 docker-compose.yml
 .idea
 .DS_Store
+wwwroot/*
+etc/nginx/conf.d/*
+!etc/nginx/conf.d/default.conf
