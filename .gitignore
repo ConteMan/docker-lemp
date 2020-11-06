@@ -1,8 +1,10 @@
+.idea
+.DS_Store
+
 .env
 log
 docker-compose.yml
-.idea
-.DS_Store
 wwwroot/*
 etc/nginx/conf.d/*
+etc/nginx/ssl/*
 !etc/nginx/conf.d/default.conf
